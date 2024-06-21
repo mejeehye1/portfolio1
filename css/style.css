@@ -64,6 +64,8 @@ Responsive
 @import url("../fonts/fontawesome6/css/solid.css");
 @import url("../fonts/icofont/icofont.min.css");
 
+
+
 * {
   --title-font: "Plus Jakarta Sans", Helvetica, Arial, sans-serif;
   --body-font-size: 16px;

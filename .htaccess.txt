@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 RewriteEngine On
 RewriteCond %{REQUEST_FILENAME} !-f
+=======
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+>>>>>>> 688ac55a228dcdae421073bfb108429b55f5c0c9
 RewriteRule ^([^\.]+)$ $1.html [NC,L]
